@@ -36,6 +36,6 @@ Open [http://localhost:4200](http://localhost:4200/) to view it in your browser.
 <div align="center" >
 <img src="https://github.com/isinicolle/Angular_PrecioCriptoMonedas/blob/main/angular-coingecko-api/src/assets/icon.png" height="250px">
 
-<img src="#" height="250px" alt="Imagen del proyecto">
+<img src="https://github.com/isinicolle/Angular_PrecioCriptoMonedas/blob/main/angular-coingecko-api/src/assets/proyecto-mercadodemonedas.jpeg" height="250px" alt="Imagen del proyecto">
 
 </div>
