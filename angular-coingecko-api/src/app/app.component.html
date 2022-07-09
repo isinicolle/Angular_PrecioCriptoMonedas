@@ -1,4 +1,4 @@
-<div class="container-fluid border rounded shadow-sm" style="font-family: ABeeZee, sans-serif;text-align: justify;background: linear-gradient(rgba(111,66,193,0.37), rgba(255,255,255,0.14));border-style: none;box-shadow: inset 0px 0px; padding: 10px; margin: 10px; padding: auto; margin: auto;"> 
+<div class="container-fluid border rounded shadow-sm" style="font-family: ABeeZee, sans-serif;text-align: center; align-items: center;background: linear-gradient(rgba(111,66,193,0.37), rgba(255,255,255,0.14));border-style: none;box-shadow: inset 0px 0px; padding: 10px; margin: 10px; padding: auto; margin: auto;"> 
   <div class="row">
     <div class="col-xs-12">
       <h1>Mercado de Monedas</h1>
@@ -12,8 +12,9 @@
         [(ngModel)]="searchText"
       />
 
-      <table class="table table-dark">
-        <thead>
+      <div class="table-responsive d-flex d-xl-flex flex-row justify-content-xl-center align-items-xl-center" style="text-align: justify;">
+        <table class="table table-striped table-hover table-dark">
+          <thead style="text-align: center;">
           <tr>
             <td *ngFor="let title of titles">
               {{ title }}
@@ -21,7 +22,7 @@
           </tr>
         </thead>
 
-        <tbody>
+        <tbody style="text-align: justify;">
           <tr *ngFor="let coin of filteredCoints; let i = index">
             <td>{{ i + 1 }}</td>
             <td>
@@ -51,4 +52,5 @@
       </table>
     </div>
   </div>
+</div>
 </div>
