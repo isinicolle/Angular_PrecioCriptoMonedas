@@ -15,14 +15,7 @@
 
 Video: https://youtu.be/
 
-## Tecnologias utilizadas: 
-
--Angular
-
-
-<br>
 ---------------
-
 
 ## Scripts disponibles
 
