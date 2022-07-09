@@ -19,9 +19,7 @@ Video: https://youtu.be/
 
 -Angular
 
-## NPM
 
--@angular/cli
 <br>
 ---------------
 
@@ -31,18 +29,12 @@ Video: https://youtu.be/
 ### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:](http://localhost:4200/) to view it in your browser.
 
-### `npm run build`
-
-Compiled files with Babel
-
-### `npm run start`
+### `ng serve` 
 
 Start Application
 
-
-Recuerda que debes instalar las dependencias y paquetes del proyecto.
 ---------------
 
 <div align="center" >
@@ -51,5 +43,3 @@ Recuerda que debes instalar las dependencias y paquetes del proyecto.
 <img src="#" height="250px" alt="Imagen del proyecto">
 
 </div>
-
-<h6>Para ejecutar el proyecto:</h6>
