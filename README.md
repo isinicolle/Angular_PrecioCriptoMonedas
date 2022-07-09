@@ -46,7 +46,7 @@ Recuerda que debes instalar las dependencias y paquetes del proyecto.
 ---------------
 
 <div align="center" >
-<img src="#" height="250px">
+<img src="https://github.com/isinicolle/Angular_PrecioCriptoMonedas/blob/main/angular-coingecko-api/src/assets/icon.png" height="250px">
 
 <img src="#" height="250px" alt="Imagen del proyecto">
 
