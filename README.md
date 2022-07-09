@@ -19,6 +19,10 @@ Video: https://youtu.be/
 
 -Angular
 
+## NPM
+
+-@angular/cli
+<br>
 ---------------
 
 
