@@ -29,7 +29,7 @@ Video: https://youtu.be/
 ### `npm run dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:](http://localhost:4200/) to view it in your browser.
+Open [http://localhost:4200](http://localhost:4200/) to view it in your browser.
 
 ### `ng serve` 
 
